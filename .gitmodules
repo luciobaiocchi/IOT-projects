@@ -1,6 +1,6 @@
 [submodule "IOT-projects_1"]
 	path = IOT-projects_1
-	url = https://github.com/luciobaiocchi/IOT-projects_1.git
+	url = git@github.com:luciobaiocchi/IOT-projects_1.git
 [submodule "IOT-projects_2"]
 	path = IOT-projects_2
 	url = git@github.com:luciobaiocchi/IOT-projects_2.git
